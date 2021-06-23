@@ -1,0 +1,12 @@
+{
+  "completed": "2021-06-22T06:03:47.294682Z",
+  "periodic": true,
+  "started": "2021-06-22T06:03:34.727230Z",
+  "versions": [
+    {
+      "filename": "pip-21.1.2-py3-none-any.whl",
+      "found_date": "2021-06-22T06:03:35.498459Z",
+      "release_date": "2021-05-23T09:52:07.000000Z"
+    }
+  ]
+}

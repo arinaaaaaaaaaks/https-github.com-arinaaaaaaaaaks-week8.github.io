@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+legko.com	0	0	1624458941	3600
+vadimgb.github.io	0	0	1624472823	31556952
+upload.wikimedia.org	0	1	1624456760	106384710
